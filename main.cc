@@ -1,6 +1,5 @@
 #include <iostream>
 
-
-int main(){
-    std::cout << "Checking" << '\n';
+int main() {
+    std::cout << "testing" << endl;
 }
